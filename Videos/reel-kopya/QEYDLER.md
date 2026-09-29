@@ -75,5 +75,5 @@ ANİMASİYADA: məhsul sürüşməməlidir — reel-dəki kimi qollarını növb
 | 4 | K3 başlanğıc | yol boş (dəyişməyib) | 530a9302-4db4-41ad-a05e-5ca9ffdfd7f5 |
 | 5 | K3 son | məhsul yolun SAĞ tərəfində | 3c0150f2-093c-499d-965e-5b8e75563d0c |
 | 6 | K4 başlanğıc | zombisiz (dəyişməyib) | 59fa2681-67e3-4373-99d7-b6d99b0505f1 |
-| 7 | K4 son | məhsul arxalarınca | 32f441a1-4371-46a7-b200-3d95f262883d |
+| 7 | K4 son | məhsul arxalarınca, üzü qaçanlara (küçəyə) baxır | 84b4884b-f175-4381-9893-490528d9d5e9 (köhnə: 32f441a1…, üzü kameraya idi) |
 | 8 | K5 başlanğıc | məhsul, qırmızı gözlər | 0283bb91-8d4f-4c54-8508-072ae7915200 |
