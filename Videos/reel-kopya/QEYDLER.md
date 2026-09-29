@@ -61,3 +61,19 @@ URL: https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/f806
 k1 0.3–3.0, k2 0–3.0, k3(v3) 0.3–3.0, k4(v3) 0–3.0, k5 0.2–3.0 = 14.1 s.
 media_id: da0f4738-d4f1-4732-a6e9-1994c27236a5
 URL: https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/da0f4738-d4f1-4732-a6e9-1994c27236a5.mp4
+
+## v4 referans dəsti (istifadəçi məhsulu + 50 yaşlı amerikalı qadın)
+Məhsul şəkli: referans-kadrlar/mehsul.png → media_id 6d4d24b1-e4e1-470e-834e-2f106997d3f2
+(yaşıl cırıq paltar, boz saç, qırmızı LED gözlər, boz heykəl əllər). Qutu böyük (~90x45 sm), üstündə bu məhsul.
+Qadın: ~50 yaş, sarı saç + boz diblər, göy sviter, boz leggings.
+ANİMASİYADA: məhsul sürüşməməlidir — reel-dəki kimi qollarını növbə ilə atıb özünü dartaraq sürünməlidir.
+| # | Klip | Kadr | job_id |
+|---|---|---|---|
+| 1 | K1 başlanğıc | qadın böyük qutunu tutur | 06ffa966-8e65-4916-b86d-f1445b04988b |
+| 2 | K1 son | qutu qucaqda | 162f13dd-388a-4e3a-935c-1613d553b008 |
+| 3 | K2 başlanğıc | məhsul döşəmədə, qadın çarpayı arxasında | adeb81b5-0e27-427d-8171-c21456171899 |
+| 4 | K3 başlanğıc | yol boş (dəyişməyib) | 530a9302-4db4-41ad-a05e-5ca9ffdfd7f5 |
+| 5 | K3 son | məhsul yolun SAĞ tərəfində | 3c0150f2-093c-499d-965e-5b8e75563d0c |
+| 6 | K4 başlanğıc | zombisiz (dəyişməyib) | 59fa2681-67e3-4373-99d7-b6d99b0505f1 |
+| 7 | K4 son | məhsul arxalarınca | 32f441a1-4371-46a7-b200-3d95f262883d |
+| 8 | K5 başlanğıc | məhsul, qırmızı gözlər | 0283bb91-8d4f-4c54-8508-072ae7915200 |
