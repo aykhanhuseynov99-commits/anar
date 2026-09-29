@@ -51,3 +51,13 @@ URL: https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/4903
 Kəsimlər: k1 0.3–3.0, k2 0–3.0, k3 0.3–3.0, k4 0–2.8, k5 0.2–3.0 = 13.96 s. 2160x3840, 24 fps, səssiz.
 media_id: f806cae5-da8b-455b-8c1f-e9871771075c
 URL: https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/f806cae5-da8b-455b-8c1f-e9871771075c.mp4
+
+## v3 düzəlişləri
+- Klip 3 v3 (zombi sağdan sürünsün): 844e84fb-5fc4-412b-a51a-711f27c25840 — ÖLÇÜ: hərəkət yenə SOL tərəfdədir, istək yerinə yetməyib.
+  Səbəb ehtimalı: son kadr dd6ca29f-də kukla yolun sol tərəfindədir. Həll: kuklanı sağ tərəfdə göstərən yeni son kadr.
+- Klip 4 v3 (zombi sağdakı ağ taxtaların altından): start kadr (zombisiz) 59fa2681-67e3-4373-99d7-b6d99b0505f1, son kadr 2d6f72e2…,
+  klip 0b6870a7-bb6a-4f78-a1e9-90e7cc28678c — ÖLÇÜ: hərəkət 0.25 s-də sağda başlayır, sonra ortaya keçir. OK.
+## Montaj v3
+k1 0.3–3.0, k2 0–3.0, k3(v3) 0.3–3.0, k4(v3) 0–3.0, k5 0.2–3.0 = 14.1 s.
+media_id: da0f4738-d4f1-4732-a6e9-1994c27236a5
+URL: https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/da0f4738-d4f1-4732-a6e9-1994c27236a5.mp4
