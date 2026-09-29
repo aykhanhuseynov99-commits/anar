@@ -19,3 +19,6 @@ Avatar: e44207a3-c5cf-4135-a442-ec3182c341cc (sarışın, krem örgü kazak, aç
 - Ad Multiplier işi (720p, 28 kr): b23ceaff-4613-4461-bf0f-a958b6cd70a3 (çıktı 3.71 sn, sahne geçişi 2.79 sn'de)
 - FINAL (0–2.785 sn kesildi, x1.0985 yavaşlatıldı → 3.08 sn, sessiz): media 479734fb-3660-42c3-a09f-61597fa4c9e7
   https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/479734fb-3660-42c3-a09f-61597fa4c9e7.mp4
+- v2 Ad Multiplier (logo önceden delogo, stüdyo avatar b52ab6ab): 4f84540d-e6cc-4be4-91a1-e7a13395b594 → kesilmiş final media a6d963ed-412d-4a75-8140-1f9c72f6ca77
+  Ölçüm: Instagram logosu ve üst yazı gitti; son yakın planda koyu saç oranı kaynakla aynı → avatar büyük ihtimalle yine değişmemiş.
+- NOT: Kullanıcı pahalı modelleri (Ad Multiplier / Genjutsu, 28 kr) istemiyor.
