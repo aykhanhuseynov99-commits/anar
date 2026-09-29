@@ -21,3 +21,22 @@
 
 Reel kadr media_id: 1a 713be018…, 2a 386fc4bf…, 3a d8916843…, 4a 80095b34…, 5b 7100b3c7…
 Qeyd: sandbox upload.higgsfield.ai və CDN-ə çıxa bilmir; fayllar GitHub raw URL + media_import_url ilə yüklənir.
+
+## Son kadrlar və kliplər (v1)
+| Nə | job_id |
+|---|---|
+| Kadr 1 son (qutu yaxın plan) | 35341f37-2025-46c8-8127-1f488b9b9a5e |
+| Kadr 3 son (qaçır, kukla yolda) | dd6ca29f-5b55-4bf8-a894-d4e7db5aa314 |
+| Klip 1 (start+end) | 62299277-89f9-464b-83ca-5593d9fb3ebd |
+| Klip 2 | 2687dd9d-4347-4845-b3aa-96cce24e5be8 |
+| Klip 3 (start+end) | 3e47b149-7fca-4ec3-ba35-9287357dcd15 |
+| Klip 4 | 7e799e85-f2fd-4cf4-9c49-93eb86929e44 |
+| Klip 5 | 0d0fd46f-1002-4ad3-b87d-3aedbeaf41be |
+
+Kling 3.0 pro, 3 s, səssiz, 9:16 (1076x1924, 24 fps). Klip başına 5.25 kr.
+
+## Montaj v1 (Higgsfield sandbox, ffmpeg)
+Kəsimlər: k1 0.6–3.0, k2 0–3.0, k3 1.1–3.0, k4 0–1.8, k5 0.2–3.0 = 11.875 s (reel 11.9 s).
+2160x3840, 24 fps, crf 15, unsharp, bt709, səssiz.
+Nəticə media_id: 490368da-a49a-427d-801f-b9e53c62b337
+URL: https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/490368da-a49a-427d-801f-b9e53c62b337.mp4
