@@ -92,3 +92,10 @@ K1: sol-alt künc sabit (max 2.0), sağ-alt 1–2 s arası hərəkət = qutunun 
 k1 0.2–3.0, k2 0–3.0, k3 0.3–3.0, k4 0–3.0, k5 0.2–3.0 = 14.25 s, 4K 24 fps, səssiz.
 media_id: 9edaa7f7-a543-48e0-9dd6-27321e2b9708
 URL: https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/9edaa7f7-a543-48e0-9dd6-27321e2b9708.mp4
+
+## ✅ SAXLANILAN VERSİYA: v4 (istifadəçi təsdiqi ilə arxivləndi)
+Bu versiyaya toxunma, silmə. Yeni versiya ayrıca (v5+) hazırlanacaq.
+- Montaj: media_id 9edaa7f7-a543-48e0-9dd6-27321e2b9708
+- URL: https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/9edaa7f7-a543-48e0-9dd6-27321e2b9708.mp4
+- Kliplər: aceb100f, de455af7, 36904840, fd21595d, 7764b904 (tam ID-lər yuxarıda "v4 klipləri" cədvəlində)
+- Kadrlar: "v4 referans dəsti" cədvəli (7-ci kadr = 84b4884b)
