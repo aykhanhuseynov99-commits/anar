@@ -13,3 +13,9 @@ Avatar: e44207a3-c5cf-4135-a442-ec3182c341cc (sarışın, krem örgü kazak, aç
 - Video v3: cb9ecfef-0c85-4469-a558-83ad97068464
 - Video v2 (eğilmiş başlangıç): 7309b226-60e9-4cf7-b639-e0d5723f4185
 - SEHV v1 (bitiş karesi farklı kamera açısı → sahne oynuyor): 3a6a9176-e425-42d8-8033-e4eb514f8ca0
+
+### Sahne 1 – YENİ YÖNTEM (referans videoda avatar + kutu değişimi, Ad Multiplier)
+- Kaynak: referans 0–4.0 sn (media 98e13dff-6160-4ad6-996b-6a2399e97789)
+- Ad Multiplier işi (720p, 28 kr): b23ceaff-4613-4461-bf0f-a958b6cd70a3 (çıktı 3.71 sn, sahne geçişi 2.79 sn'de)
+- FINAL (0–2.785 sn kesildi, x1.0985 yavaşlatıldı → 3.08 sn, sessiz): media 479734fb-3660-42c3-a09f-61597fa4c9e7
+  https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/479734fb-3660-42c3-a09f-61597fa4c9e7.mp4
