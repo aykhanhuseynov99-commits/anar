@@ -99,3 +99,17 @@ Bu versiyaya toxunma, silmə. Yeni versiya ayrıca (v5+) hazırlanacaq.
 - URL: https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/9edaa7f7-a543-48e0-9dd6-27321e2b9708.mp4
 - Kliplər: aceb100f, de455af7, 36904840, fd21595d, 7764b904 (tam ID-lər yuxarıda "v4 klipləri" cədvəlində)
 - Kadrlar: "v4 referans dəsti" cədvəli (7-ci kadr = 84b4884b)
+
+## v5 referans dəsti (reel kompozisiyası birə-bir, v5-referans/ kadrlarından)
+Reel kadr media_id: s1-bas 28f7c785, s1-son 63e03612, s2-bas 5d327b59, s3-bas b3978107, s3-son 951e1641, s4-bas 3a6f65e1, s4-son 24302186, s5-bas 854dedd3
+Qadın = v4 qadını (06ffa966). Qutu SCARECRATE, ~120x55 sm. İt: Golden Retriever, sahibi 40 yaşlı kişi (yeni). Məhsul 6d4d24b1.
+| # | Səhnə | Kadr | job_id |
+|---|---|---|---|
+| 1 | S1 başlanğıc | qadın böyük qutunu gətirir | c35abd56-cb30-4ee0-a569-b080dabe3315 |
+| 2 | S1 son | qutu qucaqda, qadın gülümsəyir | 6e0ab1a2-2571-4c27-a865-4b8181b37626 |
+| 3 | S2 başlanğıc | pult, məhsul döşəmədə, qadın çarpayı yanında | e0d1b973-271f-435a-b72b-ea19866be217 |
+| 4 | S3 başlanğıc | gecə, yol boş | 02b0db69-eb66-4e64-b0bd-a17c67c091e3 |
+| 5 | S3 son | adam qaçır, məhsul yolun ortasında | 7ac01622-d937-44f0-9527-40ef30290cea |
+| 6 | S4 başlanğıc | məhsul eyvanda qollarını qaldırıb, kişi + Golden Retriever | e1b07a98-febb-40fc-8136-b35696c5b0be |
+| 7 | S4 son | kişi və it qaçır, məhsul arxalarınca (üzü onlara) | 8866981c-f557-4e90-86de-0652ce5935d4 |
+| 8 | S5 başlanğıc | yan həyət, məhsul uzaqda | 1804baa9-8a4e-4597-9126-4bf94339dea0 |
