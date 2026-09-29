@@ -40,3 +40,14 @@ Kəsimlər: k1 0.6–3.0, k2 0–3.0, k3 1.1–3.0, k4 0–1.8, k5 0.2–3.0 = 1
 2160x3840, 24 fps, crf 15, unsharp, bt709, səssiz.
 Nəticə media_id: 490368da-a49a-427d-801f-b9e53c62b337
 URL: https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/490368da-a49a-427d-801f-b9e53c62b337.mp4
+
+## v2 düzəlişləri (istifadəçi istəyi)
+- Klip 1: adam qutunu POV-un qucağına qoyur, yataq sabit. Son kadr 6b79f8ac-6bf1-4448-93dc-7faa39ee0b16, klip 96026369-38af-499b-a6e4-1e20f7949382
+- Klip 3: əvvəl zombi yoxdur, sonra sol kolların içindən çıxır, adam qaçır. Start kadr (zombisiz) 530a9302-4db4-41ad-a05e-5ca9ffdfd7f5, son kadr dd6ca29f…, klip 51f276b6-350d-4580-9da8-486e2f59b3cd
+- Klip 4: adam və it qaçır, zombi arxalarınca sürünür. Son kadr 2d6f72e2-a940-47b3-afe6-08552a45ae84, klip 68445be1-f43b-4bab-9bc9-01f5fdc9cba4
+- Köhnə v1 klipləri saxlanılır (yuxarıdakı cədvəl).
+
+## Montaj v2
+Kəsimlər: k1 0.3–3.0, k2 0–3.0, k3 0.3–3.0, k4 0–2.8, k5 0.2–3.0 = 13.96 s. 2160x3840, 24 fps, səssiz.
+media_id: f806cae5-da8b-455b-8c1f-e9871771075c
+URL: https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/f806cae5-da8b-455b-8c1f-e9871771075c.mp4
