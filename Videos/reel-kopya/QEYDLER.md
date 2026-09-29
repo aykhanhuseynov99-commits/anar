@@ -77,3 +77,18 @@ ANİMASİYADA: məhsul sürüşməməlidir — reel-dəki kimi qollarını növb
 | 6 | K4 başlanğıc | zombisiz (dəyişməyib) | 59fa2681-67e3-4373-99d7-b6d99b0505f1 |
 | 7 | K4 son | məhsul arxalarınca, üzü qaçanlara (küçəyə) baxır | 84b4884b-f175-4381-9893-490528d9d5e9 (köhnə: 32f441a1…, üzü kameraya idi) |
 | 8 | K5 başlanğıc | məhsul, qırmızı gözlər | 0283bb91-8d4f-4c54-8508-072ae7915200 |
+
+## v4 klipləri (qadın + istifadəçi məhsulu, sürünmə qolla)
+| Klip | Kadrlar | job_id |
+|---|---|---|
+| 1 UGC, gülümsəyir | 06ffa966 → 162f13dd | aceb100f-b65e-4ad4-b3c4-8c4799d1fa10 |
+| 2 döşəmədə sürünür | adeb81b5 | de455af7-297a-419e-b1b8-61bfa08b7f80 |
+| 3 sağdan girir | 530a9302 → 3c0150f2 | 36904840-1807-4caa-8ce5-7cfe967fbaa4 |
+| 4 taxtaların altından, arxalarınca | 59fa2681 → 84b4884b | fd21595d-b4f4-4f93-998f-2f31414d5d35 |
+| 5 yan həyət | 0283bb91 | 7764b904-385f-4aa9-b6ce-2757049d6346 |
+Ölçü: K3 sağ zolaqda hərəkət 0.75 s-də başlayır (əvvəlki versiyada sağ demək olar sakit idi), sonra sol/mərkəzdə qaçış.
+K1: sol-alt künc sabit (max 2.0), sağ-alt 1–2 s arası hərəkət = qutunun qucağa qoyulduğu an.
+## Montaj v4
+k1 0.2–3.0, k2 0–3.0, k3 0.3–3.0, k4 0–3.0, k5 0.2–3.0 = 14.25 s, 4K 24 fps, səssiz.
+media_id: 9edaa7f7-a543-48e0-9dd6-27321e2b9708
+URL: https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/9edaa7f7-a543-48e0-9dd6-27321e2b9708.mp4
