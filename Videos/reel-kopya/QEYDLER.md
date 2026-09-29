@@ -1,8 +1,10 @@
 # Reel kopya — qeydlər
 
 ## Açıq tapşırıq (UNUTMA)
-- **Qutu = istifadəçinin öz məhsulunun qutusu.** Hazırkı kadrlarda qutu müvəqqəti yazısız qara qutudur.
-  İstifadəçi qutunun şəklini göndərən kimi kadr 1 (və qutu görünən bütün kadrlar) həmin qutu referansı ilə yenidən çəkilməlidir.
+- **Qutu = istifadəçinin məhsulunun qutusu, brend adı "SCARECRATE".** Dizayn reel-dəki qutu kimi: qara qutu, nazik qırmızı haşiyə,
+  qırmızı başlıq SCARECRATE, ortada sürünən kukla şəkli, sol altda "Life-Size Crawling Halloween Prop", sağ altda 4 qırmızı ikon.
+  Reel qutusunun şəkli (referans-kadrlar/qutu.png) referans kimi NSFW blokuna düşür, ona görə yalnız mətnlə təsvir olunur.
+  Kadr 1 v2 (SCARECRATE qutusu): dc4733e6-447e-4b37-9b44-af8d3d48533c. Qutu görünən sonrakı kadrlarda bu job_id-ni referans ver.
 
 ## Tələblər
 - Avatarlar, ev, itin cinsi dəyişir (it: Golden Retriever), Amerika şəhərətrafı hissi.
