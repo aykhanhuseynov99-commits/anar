@@ -154,3 +154,18 @@ Klip ee634ea4-77c9-4911-9f28-d5798badeca6 (hf_mult_motion_control 720p, 28 kr), 
 Montaj v9: k1 0–2.45, k2 0–3, k3(mt) 0.7–3.0, k4 0–3, k5 0.2–3 = 13.54 s
 media_id 34284c38-f451-4407-9fd4-6a592fed9cb2
 URL https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/34284c38-f451-4407-9fd4-6a592fed9cb2.mp4
+
+## v10 = v9 + səs (A variantı: TTS reaksiyalar + zəif "Monster Mash")
+Reel səsi: danışıq yoxdur, "Monster Mash" mahnısı (müəllif hüququ — platforma səssizləşdirə bilər).
+Səslər seed_audio: qadın Delia 1550321e…, oğlan Benji e6f9b893…, it sahibi Grady e2a2d2e6…
+| Vaxt | Kim | Mətn | job_id |
+|---|---|---|---|
+| 0.1 s | qadın | Okay honey... you are gonna LOVE this! | 8581f792-4d73-404f-b661-96f43d7b3877 (atempo 1.3) |
+| 3.35 s | qadın | Ha ha! Oh my God, it actually crawls! | ea47b3c1-4756-46de-af05-c6cb0a3e214f (atempo 1.3) |
+| 6.15 s | oğlan | Whoa! NOPE! Nope nope nope! | 52e9bb3c-c870-4d36-ba9f-df4651d18998 |
+| 8.4 s | it sahibi | What the...?! Buddy, RUN! | 642da76f-c6bb-4a80-87bb-002d5a6bd919 (+28 dB, çox zəif idi) |
+| 10.8 s | qadın | Happy Halloween, neighbors... hee hee | 717fd375-f148-4aff-88bf-dc51e7ae181a (atempo 1.1) |
+Daxili sükutlar silenceremove ilə qısaldıldı, loudnorm -16. Musiqi volume 0.16, 11.0 s-dən fade.
+Whisper yoxlaması: 5 cümlənin hamısı düzgün saniyədə eşidilir.
+Montaj v10 (səsli): media_id 21616ae8-786b-4e8c-ae01-01be872d48f5
+URL https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/21616ae8-786b-4e8c-ae01-01be872d48f5.mp4
