@@ -137,3 +137,13 @@ URL: https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/9dc3
 - Montaj v6: k1 8cc2ee2d 0–2.45, k2 66ef6836, k3 a5a987e0, k4 6a2a8676, k5 5a5afa65 0.2–3 = 14.25 s
   media_id 7a1bb9a7-0c3f-494e-b462-3150ccfd5771
   URL https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/7a1bb9a7-0c3f-494e-b462-3150ccfd5771.mp4
+
+## v7 (səhnə 3: sağdan, üzü oğlana) — montaj b6021017-51d7-48c2-ac3a-f34b3663dfd1
+son kadr 81dd33b0-569b-4d69-a4f6-85a4ce72d692, klip 11e28eed-084c-451d-9762-d85170834307
+## v8 (səhnə 3: reel-dəki kimi — sağ koldan sürətlə atılır, dörd ayaq, arxası kameraya, oğlanı küçəyə qovur)
+Reel S3 kadr-kadr analizi: zombi sağ koldan diaqonal atılır, dörd ayaq üstə (əllər qabaqda, ayaqlar arxada uzanıb), başı oğlana, oğlan YIXILMIR — geri sıçrayıb qaçır, zombi yolun ortası ilə qovur.
+son kadr 891b328c-9af9-4709-8706-e98e6d091889, klip dc6f2fab-d3b0-4fc1-a234-0a5153e9dd55
+Ölçü: sağ zolaq 0.5 s-də başlayır (reel kimi sağdan), sonra orta. Üst (ev/göy) sakit → kamera sıçrayışı yoxdur.
+Sol kənar (sütun/kol) 0.75 s-dən sonra çox hərəkət edir — oğlanın qaçışı və ya kolun titrəməsi ola bilər, gözlə yoxlanmalı.
+Montaj v8: media_id 0689f930-824a-4f6a-9296-26695df01776
+URL https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/0689f930-824a-4f6a-9296-26695df01776.mp4
