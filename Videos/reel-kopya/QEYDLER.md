@@ -147,3 +147,10 @@ son kadr 891b328c-9af9-4709-8706-e98e6d091889, klip dc6f2fab-d3b0-4fc1-a234-0a51
 Sol kənar (sütun/kol) 0.75 s-dən sonra çox hərəkət edir — oğlanın qaçışı və ya kolun titrəməsi ola bilər, gözlə yoxlanmalı.
 Montaj v8: media_id 0689f930-824a-4f6a-9296-26695df01776
 URL https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/0689f930-824a-4f6a-9296-26695df01776.mp4
+
+## v9 (səhnə 3 = motion transfer, reel S3-dən birə-bir) — istifadəçi Kling v8-də "oğlanın üstünə tullanır" dedi
+Klip ee634ea4-77c9-4911-9f28-d5798badeca6 (hf_mult_motion_control 720p, 28 kr), şəkillər 02b0db69 + 891b328c, video 81879f3e.
+Ölçü: ardıcıllıq reel kimi (əvvəl sağ, sonra orta), sol və üst sakit (kamera sıçrayışı yox). Hərəkət ~0.7–3.2 s-ə yayılıb.
+Montaj v9: k1 0–2.45, k2 0–3, k3(mt) 0.7–3.0, k4 0–3, k5 0.2–3 = 13.54 s
+media_id 34284c38-f451-4407-9fd4-6a592fed9cb2
+URL https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/34284c38-f451-4407-9fd4-6a592fed9cb2.mp4
