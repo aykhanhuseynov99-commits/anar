@@ -113,3 +113,19 @@ Qadın = v4 qadını (06ffa966). Qutu SCARECRATE, ~120x55 sm. İt: Golden Retrie
 | 6 | S4 başlanğıc | məhsul eyvanda qollarını qaldırıb, kişi + Golden Retriever | e1b07a98-febb-40fc-8136-b35696c5b0be |
 | 7 | S4 son | kişi və it qaçır, məhsul arxalarınca (üzü onlara) | 8866981c-f557-4e90-86de-0652ce5935d4 |
 | 8 | S5 başlanğıc | yan həyət, məhsul uzaqda | 1804baa9-8a4e-4597-9126-4bf94339dea0 |
+
+## v5 klipləri
+Reel səhnə videoları (Higgsfield media, motion transfer üçün): s1 5514eb3f, s2 3f23e0c7, s3 81879f3e, s4 1839fd36, s5 ded4b007
+| Klip | Model | Kadrlar | job_id |
+|---|---|---|---|
+| 1 | hf_mult_motion_control 720p (28 kr), hərəkət reel-dən birə-bir | c35abd56 + 6e0ab1a2 + reel s1 | 8cc2ee2d-db1e-4d3f-9a27-353a4e86bcea |
+| 2 | kling3_0 pro 3 s | e0d1b973 | 66ef6836-c1a7-43de-8c8d-aab9ea9e78e5 |
+| 3 | kling3_0 pro 3 s | 02b0db69 → 7ac01622 | 1a1ecd0e-3aa1-4580-8461-fffe6998ca63 |
+| 4 | kling3_0 pro 3 s | e1b07a98 → 8866981c | 6a2a8676-184a-4aad-9d32-0928c2e0b804 |
+| 5 | kling3_0 pro 3 s | 1804baa9 | 5a5afa65-f622-469f-b7b3-82e39419b1a4 |
+Ölçü K1: hərəkət zirvələri reel ilə eyni anlarda (0.5 s, 1.25 s). Klip 4.04 s, montajda 0–2.45 s.
+Zombi promptları: əllər + ayaqlar/dizlər növbə ilə (istifadəçi istəyi).
+## Montaj v5
+k1 0–2.45, k2 0–3, k3 0–3, k4 0–3, k5 0.2–3 = 14.25 s, 4K 24 fps, səssiz.
+media_id: 9dc335b7-fec4-4653-bad0-118131c3c1e9
+URL: https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/9dc335b7-fec4-4653-bad0-118131c3c1e9.mp4
