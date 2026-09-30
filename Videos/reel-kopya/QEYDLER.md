@@ -129,3 +129,11 @@ Zombi promptları: əllər + ayaqlar/dizlər növbə ilə (istifadəçi istəyi)
 k1 0–2.45, k2 0–3, k3 0–3, k4 0–3, k5 0.2–3 = 14.25 s, 4K 24 fps, səssiz.
 media_id: 9dc335b7-fec4-4653-bad0-118131c3c1e9
 URL: https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/9dc335b7-fec4-4653-bad0-118131c3c1e9.mp4
+
+## v6 = v5 + yeni səhnə 3
+- Səhnə 3: zombi SAĞDAKI otların içindən əl + ayaqla sürünüb çıxır, oğlan görüb qaçır.
+  Son kadr ad3a8f30-40e9-47af-ab80-4382e7ba6d75 (zombi sağ kənarda yarıya qədər otdan çıxıb), start 02b0db69.
+  Klip a5a987e0-90c2-4b15-9b5a-0c40251ddc64. Ölçü: sağ zolaqda hərəkət 0.75 s-dən sona qədər, sol sakit. OK.
+- Montaj v6: k1 8cc2ee2d 0–2.45, k2 66ef6836, k3 a5a987e0, k4 6a2a8676, k5 5a5afa65 0.2–3 = 14.25 s
+  media_id 7a1bb9a7-0c3f-494e-b462-3150ccfd5771
+  URL https://d2ol7oe51mr4n9.cloudfront.net/user_3IgRc3W3K0QsY6kVU51wHIKRV33/7a1bb9a7-0c3f-494e-b462-3150ccfd5771.mp4
