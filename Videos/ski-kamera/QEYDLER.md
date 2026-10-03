@@ -13,6 +13,12 @@
 - Qarmaq qulağın üstündən və arxasından keçir, qulağın girişində kvadrat gövdə, lens azca irəli baxır
 - Orijinal reel kadrları: `b122ba49` (qulaq), `aaf10e7d` (arxadan taxma), `25ffcc1a` (əldə)
 
+## Maskalı görünüş (qəbul olunub)
+- Kamera ucu: kvadrat gövdənin lensli ön üzü, maskanın ön kənarında, qismən kənarın altında, qulağın yuxarı hissəsi səviyyəsində, düz irəli. Maskada deşik/yırtıq yox.
+- Ən son düzgün yer: `d8189af9`
+- Maskasız kadr/arxa plan/bucaq standartı (istifadəçi: "yadında saxla"): `97923a9d`
+- Eyni bucaqda maskalı versiya: `e01570fc` (yoxlanılır)
+
 ## Kadrlar
 | Kadr | Job | Status |
 |---|---|---|
